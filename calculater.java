@@ -7,6 +7,7 @@ public class calculater {
         System.out.println("press 2 for subtriction");
         System.out.println("press 3 for multiplication");
         System.out.println("press 4 for division");
+        System.out.println("press 5 for reminder");
         
         Scanner sc = new Scanner(System.in);
         
