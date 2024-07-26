@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class calculater {
 
     public static void main(String[] args) {
-        System.out.println("for instruction");
+        System.out.println("commient");
         System.out.println("press 1 for edition");
         System.out.println("press 2 for subtriction");
         System.out.println("press 3 for multiplication");
